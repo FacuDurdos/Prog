@@ -1,0 +1,11 @@
+console.log("avanzar");
+console.log("llenar 1");
+console.log("avanzar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("llenar 1");
+console.log("avanzar");
+console.log("eliminar 1");
+console.log("avanzar");
+console.log("eliminar 1");
+console.log("avanzar");
