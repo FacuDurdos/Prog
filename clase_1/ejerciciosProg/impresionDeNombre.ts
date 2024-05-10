@@ -8,9 +8,9 @@ let nombreCompleto:string="";
 for(let i:number=0; i<3; i++) {
     nombre=rls.question("Ingrese el nombre: ");
     apellido=rls.question("Ingrese el apellido: ");
-    dibujarGuiones(40);
+    console.log(dibujarGuiones(40));
     imprimirNombre(nombre,apellido,nombreCompleto);
-    dibujarGuiones(40);
+    console.log(dibujarGuiones(40));
 }
 
 
