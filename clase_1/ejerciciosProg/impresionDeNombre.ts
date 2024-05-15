@@ -1,7 +1,7 @@
 import * as rls from 'readline-sync';
 
-let nombre:string
-let apellido:string
+let nombre:string;
+let apellido:string;
 let nombreCompleto:string="";
 
 
